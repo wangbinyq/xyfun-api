@@ -6,7 +6,7 @@
 import {
   TTSRequest,
   XfyunTTS,
-} from "https://deno.land/x/xfyun-api/v0.0.1/mod.ts";
+} from "https://deno.land/x/xfyun_api/v0.0.2/mod.ts";
 
 const tts = new XfyunTTS({
   appid: APP_ID,
